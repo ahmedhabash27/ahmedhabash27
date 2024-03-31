@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Ahmed Habash .
-- 👀 I’m interested in software engineer .
-- 🌱 I’m currently learning web development .
 - 📫 How to reach me foe whatsapp 01065348816 .
 
 <!---
